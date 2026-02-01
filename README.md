@@ -7,8 +7,14 @@ Make a Codespace with 16GB of Ram
 
 
 
-If You Cant Run The start.sh and startautorestart.sh run
+1. If You Cant Run The start.sh and startautorestart.sh run
 
+```bash
 chmod +x start.sh
+```
 and 
+```bash
 chmod +x startAutoRestart.sh
+```
+
+
