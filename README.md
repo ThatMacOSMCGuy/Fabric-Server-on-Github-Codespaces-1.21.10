@@ -28,4 +28,4 @@ Run Playit by Typing
 ```bash
 playit
 ```
-
+in a second bash terminal on Codespace and Follow the instructions.
