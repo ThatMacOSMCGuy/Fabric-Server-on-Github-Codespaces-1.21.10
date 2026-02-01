@@ -37,7 +37,7 @@ playit
 ```
 in a second bash terminal on Codespace and Follow the instructions.
 
-!!!IMPORTANT!!! To not lose ur world run 
+!!!IMPORTANT!!! To not lose your World run 
 
 ```bash
 git add .
