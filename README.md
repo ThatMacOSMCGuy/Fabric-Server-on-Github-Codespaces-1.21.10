@@ -29,3 +29,11 @@ Run Playit by Typing
 playit
 ```
 in a second bash terminal on Codespace and Follow the instructions.
+
+!!!IMPORTANT!!! To not lose ur world run 
+
+```bash
+git add .
+git commit -m "Save my work"
+git push
+```
