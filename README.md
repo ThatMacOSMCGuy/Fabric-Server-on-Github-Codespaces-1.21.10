@@ -8,7 +8,9 @@ Make a Codespace with 16GB of Ram
 0. to install Java 21 Type
 
 ```bash
-apt install openjdk-21-jdk
+sudo apt update
+sudo apt upgrade
+sudo apt install openjdk-21-jdk
 ```
 
 
